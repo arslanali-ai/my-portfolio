@@ -72,17 +72,6 @@ arslan-ali-portfolio/
 └── vite.config.ts        # Vite configuration with Tailwind CSS v4
 ```
 
----
-
-## 🌐 Deployment
-
-### Deploy to Vercel
-1. Push this repository to GitHub.
-2. Import the project into Vercel.
-3. In Project Settings > Environment Variables, add `GEMINI_API_KEY`.
-4. Deploy!
-
----
 
 ## 📬 Contact
 - **Email:** panhwararslan100@gmail.com
