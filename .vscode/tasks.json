@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Portfolio (Dev)",
+      "type": "shell",
+      "command": "npm.cmd run dev",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Run Vite Only",
+      "type": "shell",
+      "command": "npm.cmd run dev:vite",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build for Production",
+      "type": "shell",
+      "command": "npm.cmd run build",
+      "problemMatcher": []
+    }
+  ]
+}
